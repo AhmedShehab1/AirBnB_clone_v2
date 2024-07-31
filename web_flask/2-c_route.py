@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Module for Flask Framework
+"""
 from flask import Flask
 
 app = Flask(__name__)

@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+"""
+Module for Flask Framework
+"""
 from flask import Flask, render_template
 
 app = Flask(__name__)
